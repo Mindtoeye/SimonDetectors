@@ -1,5 +1,10 @@
 # SimonDetectors
+
 A set of detectors for affect, gaming the system and others bundled in a single Javascript library
+
+# This is a reworking of the CTAT/Tutorshop code at: 
+
+https://github.com/d19fe8/CTAT-detector-plugins
 
 # Building
 
